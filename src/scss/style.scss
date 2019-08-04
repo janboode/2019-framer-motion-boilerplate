@@ -1,0 +1,23 @@
+/* variables */
+$col-bg: rgba(223, 59, 0, 1);
+$col-txt: rgba(248, 241, 241, 1);
+
+/* reset */
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* body */
+body {
+    background-color: $col-bg;
+    color: $col-txt;
+}
+
+#root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
