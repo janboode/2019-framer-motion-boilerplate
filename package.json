@@ -1,7 +1,7 @@
 {
   "name": "2019-basic-react-boilerplate",
   "version": "1.0.0",
-  "description": "2019 Basic React Boilerplate with Webpack, Babel and Sass",
+  "description": "2019 Basic React Boilerplate with Webpack, Babel, Sass and Framer Motion",
   "main": "index.js",
   "scripts": {
     "build:dev": "cross-env NODE_ENV=development webpack --mode development",
@@ -12,7 +12,11 @@
     "Webpack",
     "Babel",
     "React",
-    "Sass"
+    "Sass",
+    "Framer",
+    "Framer X",
+    "Motion",
+    "Framer Motion"
   ],
   "author": "JAB",
   "license": "ISC",
