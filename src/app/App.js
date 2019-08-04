@@ -7,7 +7,7 @@ const App = () => {
     return(
         <div className="App">
             <FramerMotionComponent />
-            <h1>2019 basic framer-motion biolerplate.</h1>
+            <h1>2019 basic framer-motion boilerplate.</h1>
         </div>
     )
 }
