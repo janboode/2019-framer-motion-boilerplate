@@ -10,7 +10,7 @@ $col-txt: rgba(248, 241, 241, 1);
 
 /* body */
 body {
-    background-color: $col-bg;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.13), rgb(255, 255, 255)), linear-gradient(90deg, rgb(0, 180, 105), rgb(57, 0, 163));
     color: $col-txt;
 }
 
