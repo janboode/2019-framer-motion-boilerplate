@@ -3,11 +3,11 @@
 Personal Boilerplate for mid 2019
 
 ### About Framer Motion:
-- **Title**
+> An open source React library to power production-ready animations. Design fluid animations for the web, across desktop and mobile.
 
-   Some text here.
+A successor to Pose by Popmotion.
 
-  This [tutorial(s)](www.nu.nl) helped a lot.
+Check the [Framer Motion](https://www.framer.com/motion/) website.
 
 
 
