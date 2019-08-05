@@ -8,6 +8,7 @@ const App = () => {
         <div className="App">
             <FramerMotionComponent />
             <h1>2019 basic framer-motion boilerplate.</h1>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur nobis voluptate reprehenderit? Officiis odit sunt sequi distinctio laboriosam asperiores voluptatibus.</p>
         </div>
     )
 }
