@@ -11,7 +11,7 @@ module.exports = {
         path: path.resolve(__dirname, '../build')
     },
     resolve: {
-        extensions: ['.js', 'ts', '.scss']
+        extensions: ['.js', 'ts', '.scss', '.jsx']
     },
     module: {
         rules: [
@@ -24,6 +24,9 @@ module.exports = {
                         presets: [
                             '@babel/preset-env',
                             '@babel/preset-react'
+                        ],
+                        "plugins": [
+                            "@babel/plugin-proposal-class-properties"
                         ]
                     }
                 }
